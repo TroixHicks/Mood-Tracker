@@ -5,4 +5,4 @@ Mood Tracker Application
 Description: This is a fullstack application using node express, that lets you submit mood entries each day. The purpose is to track the users mood and input based on the date.
 
 
-
+TECH INCLUDED: HTML, CSS, JS,JSON, NODE.JS, EXPRESS
